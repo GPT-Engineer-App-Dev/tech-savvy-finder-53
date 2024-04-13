@@ -35,7 +35,7 @@ const Index = () => {
           <Text fontSize="xl" mb={8}>
             Particles is the premier marketplace for finding exceptional developers specializing in the latest web technologies. Hire with confidence.
           </Text>
-          <Button colorScheme="blue" size="lg" rightIcon={<FaArrowRight />}>
+          <Button colorScheme="brand" size="lg" rightIcon={<FaArrowRight />}>
             View Developers
           </Button>
         </Container>
@@ -74,7 +74,7 @@ const Index = () => {
             ))}
           </Wrap>
 
-          <Button mt={10} colorScheme="blue" size="lg">
+          <Button mt={10} colorScheme="brand" size="lg">
             View More Developers 
           </Button>
         </Container>
