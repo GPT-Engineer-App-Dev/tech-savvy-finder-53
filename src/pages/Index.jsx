@@ -75,7 +75,7 @@ const Index = () => {
           </Wrap>
 
           <Button mt={10} colorScheme="blue" size="lg">
-            View More Developers
+            View More Developers 
           </Button>
         </Container>
       </Box>
